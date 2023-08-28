@@ -4,8 +4,8 @@ mySecondList = [2, 2, 1, 1, 1, 2, 2]
 
 # METHOD 1
 
-# Time: O(n)
-# Space: (On)
+# Time: O(n) ??
+# Space: (On) ??
 
 def findMajority(myList):
     numbers = {}  # Dictionary, HashMap, Map - (Key-Value)
